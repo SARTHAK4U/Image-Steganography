@@ -7,6 +7,7 @@ secret message is being sent, as well as concealing the contents of the message.
 # Problem Statement
 -Image Steganography using the serial technique and speeding up the process using parallel
 approach.
+
 -Parallelising the Least Significant Bit encoding of pixels using CUDA.
 
 # Relevance of Problem Statement
